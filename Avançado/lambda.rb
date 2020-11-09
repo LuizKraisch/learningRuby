@@ -1,0 +1,30 @@
+# São blocos que podem ser salvos em variáveis para serem reutilizados.
+
+first_lambda = lambda { puts "Um Lambda" } # lambda pode ser substituido por ->
+first_lambda.call
+
+###
+
+second_lambda = -> (names){ names.each { |name| puts name } }
+names = ["João", "Maria", "Pedro"]
+
+second_lambda.call(names)
+
+###
+
+my_lambda = lambda do |numbers|
+ index = 0
+ puts 'Número atual + Próximo número'
+ numbers.each do |number|
+   return if numbers[index] == numbers.last
+   puts "(#{numbers[index]}) + (#{numbers[index + 1]})"
+   puts numbers[index] + numbers[index + 1]
+   index += 1
+ end
+end
+ 
+numbers = [1, 2, 3, 4]
+ 
+my_lambda.call(numbers)
+
+

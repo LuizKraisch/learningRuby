@@ -1,0 +1,8 @@
+## Modules
+
+Possuem duas funções: 
+
+# Namespace - Como um container para agrupar objetos relacionados (classesm constantes, métodos ou outros modules).
+
+# Mixins - Serve para incluir funcionalidades extras as classes.
+
