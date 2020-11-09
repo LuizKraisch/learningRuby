@@ -46,4 +46,12 @@ Acessada aepnas onde foi criada. É declarada com a primeira letra do nome sendo
 
 Acessada em qualquer lugar do programa. É declarada com o prefixo $.
 
+# Variáveis de Classe
+
+É acessível em qualquer lugar da classe onde foi declarada e seu valor pe comportilhado entre todas as instâncias de sua classe. É declarada com o prefixo @@
+
+# Variável de instância
+
+Semelhante a variável de classe, tendo como diferença o valor que não pe compartilhado entre todas as instâncias de sua classe. Seu nome começa com @.
+
 
