@@ -1,0 +1,49 @@
+## Conceitos
+
+# Abstração
+
+Ação de abstrair uma entidade do mundo real e transofmá-lá em uma classe
+
+# Encapsulamento
+
+Ato de dividir um programa em idversas partes tornando-o flexível, fáicl de modificar e incluir novas funcionalidades. 
+
+# Herança
+
+Habilidade de criar uma Classe com características de outra existente. A herança promove o reuso e reaproveitamento de código.
+
+# Polimorfismo
+
+Capacidade de utilizar um método de difetentes formas para diferentes Objetos.
+
+------
+
+## Estrutura
+
+#Classe
+
+Classe é como a planta/estrutura de um objeto. Como um carro, em que a classe é como a "planta" desse carro. Com ela é possível criar vários carros.
+
+# Objeto
+
+Um objeto é a representação de um objeto do mundo real. Os objetos apresentam duas características em comum: informações e comportamentos.
+
+Exemplo: 
+
+Objeto - Cachorro
+informações (Atributos) - Raça, Peso, Idade, etc.
+Comportamento (Metodos) - Late, Come, Corre
+
+-------
+
+## Escopo das Variáveis
+
+# Variável Local
+
+Acessada aepnas onde foi criada. É declarada com a primeira letra do nome sendo minúscula ou um sublinhado
+
+# Variável Global
+
+Acessada em qualquer lugar do programa. É declarada com o prefixo $.
+
+
