@@ -40,7 +40,7 @@ Comportamento (Metodos) - Late, Come, Corre
 
 # Variável Local
 
-Acessada aepnas onde foi criada. É declarada com a primeira letra do nome sendo minúscula ou um sublinhado
+Acessada apenas onde foi criada. É declarada com a primeira letra do nome sendo minúscula ou um sublinhado
 
 # Variável Global
 
@@ -52,6 +52,6 @@ Acessada em qualquer lugar do programa. É declarada com o prefixo $.
 
 # Variável de instância
 
-Semelhante a variável de classe, tendo como diferença o valor que não pe compartilhado entre todas as instâncias de sua classe. Seu nome começa com @.
+Semelhante a variável de classe, tendo como diferença o valor que não é compartilhado entre todas as instâncias de sua classe. Seu nome começa com @.
 
 
